@@ -7,7 +7,6 @@ As a part of my submission, I have attached the four files. It is advisable to g
 <li>A Tableau Interactive Dashboard showcasing the results. https://public.tableau.com/profile/slavvy.johnson.coelho#!/vizhome/HaulRLogistics/Dashboard1
 </ol>
 <br><br>
-
 ## Running Instructions for Jupyter notebook:
 <ol>
 <li>Open the zip file and store all the contents together in a single folder.
